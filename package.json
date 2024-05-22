@@ -1,0 +1,18 @@
+{
+    "name": "mojar",
+    "version": "1.0.0",
+    "description": "A Vite project",
+    "main": "public/assets/js/main.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "author": "Mojahid islam",
+    "license": "ISC",
+    "devDependencies": {
+        "vite": "^2.7.10",
+        "@babel/core": "^7.16.7",
+        "@babel/preset-env": "^7.16.7",
+        "babel-loader": "^8.2.3"
+    }
+}

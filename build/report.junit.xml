@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.006310">
+    <testsuite name="Mojahid Test Suite" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.006310">
+      <testsuite name="SampleTest" file="C:\laragon\www\wp-core\wp-content\plugins\mojar\tests\Unit\SampleTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.006310">
+        <testcase name="testSample" class="SampleTest" classname="SampleTest" file="C:\laragon\www\wp-core\wp-content\plugins\mojar\tests\Unit\SampleTest.php" line="8" assertions="1" time="0.006310"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
